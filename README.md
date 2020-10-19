@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nguyễn Khoa
 #### I am a Junior web developer
-![I am a Junior web developer](https://imgur.com/MUm2Zyp)
+![I am a Junior web developer](https://i.imgur.com/MUm2Zyp.jpg)
 
 I am spending most of my time studying. I am learning Web programming by ReactJS, NodeJS, and some other frameworks. My way to becoming a Web Developer is still very far and I am trying my best to walk in that way.
 
